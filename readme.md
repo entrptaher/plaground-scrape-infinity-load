@@ -1,0 +1,1 @@
+This is a project showcasing the script to scrape lazy loading website like product-hunt without using `scrollHeight` or `ajax` requests.
